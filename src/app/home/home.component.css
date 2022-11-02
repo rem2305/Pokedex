@@ -1,0 +1,8 @@
+.card{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.card:hover{
+    filter: grayscale();
+}
